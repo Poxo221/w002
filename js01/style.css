@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 255, 255);
+    font-family: Cursive;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    color: red !important;
+}
+
+button {
+    background-color: #02ff24;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
